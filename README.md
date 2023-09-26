@@ -1,0 +1,1 @@
+# firstTry-prismaMySql-nextjs
